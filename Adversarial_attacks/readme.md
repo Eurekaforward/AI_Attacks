@@ -1,4 +1,7 @@
-1.Membership Inference Attack against Machine Learning Models [Code][1][2][3]
+1.Membership Inference Attack against Machine Learning Models 
+[Code][1]
+[Code][2]
+[Code][3]
 [1] https://github.com/csong27/membership-inference
 [2] https://github.com/yonsei-cysec/Membership_Inference_Attack
 [3] https://github.com/spring-epfl/mia
