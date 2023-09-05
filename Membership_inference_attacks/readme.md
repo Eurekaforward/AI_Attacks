@@ -1,4 +1,4 @@
-Membership_inference_attacks paper with code
+Membership_inference_attacks paper with code  
 1.Membership Inference Attack against Machine Learning Models[(code)](https://github.com/csong27/membership-inference) [(code)](https://github.com/yonsei-cysec/Membership_Inference_Attack) [(code)](https://github.com/spring-epfl/mia)  
 2.ML-Leaks: Model and Data Independent Membership Inference Attacks and Defenses on Machine Learning Models[(code)](https://github.com/AhmedSalem2/ML-Leaks)
 [(code)](https://github.com/GeorgeTzannetos/ml-leaks-pytorch)  
