@@ -1,4 +1,4 @@
-Model_extraction_attacks paper with code
+Model_extraction_attacks paper with code  
 1.Stealing machine learning models via prediction apis[(code)](https://github.com/ftramer/Steal-ML)  
 2.Model Extraction Attacks against Graph Neural Network[(code)](https://github.com/TrustworthyGNN/MEA-GNN)  
 3.Extracting Training Data from Large Language Models[(code)](https://github.com/ftramer/LM\_Memorization)  
