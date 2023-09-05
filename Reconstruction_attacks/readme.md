@@ -1,0 +1,12 @@
+Reconstruction_attacks paper with code  
+1.Model Inversion Attacks that Exploit Confidence Information and Basic Countermeasures[(code)](http://www.cs.cmu.edu/~mfredrik/mi-2016.zip) [(code)](https://github.com/zhangzp9970/MIA)  
+2.Model Inversion Attack against Collaborative Inference[(code)](https://github.com/zechenghe/Inverse\_Collaborative\_Inference)  
+3.UnSplit: Data-Oblivious Model Inversion, Model Stealing, and Label Inference Attacks Against Split Learning[(code)](https://github.com/ege-erdogan/unsplit)  
+4.Deep Models Under the GAN: Information Leakage from Collaborative Deep Learning[(code)](https://github.com/Jaskiee/GAN-Attack-against-Federated-Deep-Learning)  
+5.Label-Only Model Inversion Attacks via Boundary Repulsion[(code)](https://github.com/m-kahla/Label-Only-Model-Inversion-Attacks-via-Boundary-Repulsion)  
+6.Reinforcement Learning-Based Black-Box Model Inversion Attacks[(code)](https://github.com/HanGyojin/RLB-MI)  
+7.Reconstructing Training Data with Informed Adversaries[(code)](https://github.com/deepmind/informed\_adversary\_mnist\_reconstruction)  
+8.R-GAP: Recursive Gradient Attack on Privacy[(code)](https://github.com/JunyiZhu-AI/R-GAP)  
+9.eural Network Inversion in Adversarial Setting via Background Knowledge Alignment[(code)](https://github.com/yziqi/adversarial-model-inversion)  
+10.Machine Learning Models that Remember Too Much[(code)](https://github.com/csong27/ml-model-remember)  
+11.iDLG: Improved Deep Leakage from Gradients[(code)](https://github.com/PatrickZH/Improved-Deep-Leakage-from-Gradients)  
