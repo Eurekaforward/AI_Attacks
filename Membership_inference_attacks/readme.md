@@ -8,3 +8,5 @@ Membership_inference_attacks paper with code
 6.Practical Blind Membership Inference Attack via Differential Comparisons[(code)](https://github.com/hyhmia/BlindMI)  
 7.Source Inference Attacks in Federated Learning" for evaluating source inference attacks in federated learning[(code)](https://github.com/HongshengHu/source-inference-FL)  
 8.Membership Inference Attacks by Exploiting Loss Trajectory[(code)](https://github.com/DennisLiu2022/Membership-Inference-Attacks-by-Exploiting-Loss-Trajectory)  
+9.https://github.com/shrebox/Privacy-Attacks-in-Machine-Learning  
+10.https://github.com/privacytrustlab/ml\_privacy\_meter  
