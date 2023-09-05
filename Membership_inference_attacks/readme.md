@@ -1,8 +1,5 @@
 1.Membership Inference Attack against Machine Learning Models 
-[Code][1]
-[Code][2]
-[Code][3]
-[1] : https://github.com/csong27/membership-inference/
+[code](https://github.com/csong27/membership-inference)
 [2] : https://github.com/yonsei-cysec/Membership_Inference_Attack/
 [3] : https://github.com/spring-epfl/mia/
 2.ML-Leaks: Model and Data Independent Membership Inference Attacks and Defenses on Machine Learning Models
